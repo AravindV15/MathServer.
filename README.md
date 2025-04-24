@@ -180,11 +180,13 @@ urlpatterns = [
 </html>
 ~~~
 # SERVER SIDE PROCESSING:
-![Screenshot (55)](https://github.com/user-attachments/assets/e2a276ab-8a16-4f0e-9782-7830fe1a49cb)
+![image](https://github.com/user-attachments/assets/b542b102-8117-4bee-87a5-fdc3e57b134b)
+
 
 
 # HOMEPAGE:
-![Screenshot (49)](https://github.com/user-attachments/assets/64f5d409-da19-4bde-ab87-7094009e0c95)
+![image](https://github.com/user-attachments/assets/23b9e4ab-e299-4854-a2b7-c8fe29a76e8b)
+
 
 
 # RESULT:
